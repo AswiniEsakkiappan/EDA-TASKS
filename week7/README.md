@@ -87,3 +87,10 @@ pip install pandas numpy matplotlib seaborn jupyter
 ├── StudentsPerformance.csv
 └── README.md
 ```
+## Output
+
+<img width="571" height="413" alt="image" src="https://github.com/user-attachments/assets/60f7892d-5f17-4c4a-94ca-2ee8b179854b" />
+
+<img width="552" height="413" alt="image" src="https://github.com/user-attachments/assets/ac53b1ef-8a46-46b9-8631-18580878b1b5" />
+
+
